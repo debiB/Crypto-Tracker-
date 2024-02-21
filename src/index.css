@@ -45,7 +45,7 @@ ode {
   border: 1px solid var(--primary);
   background-color: var(--primary);
   color: #000101; 
-  border-radius: 24px 4px;
+  border-radius: 24px;
   font-size: 1.1 rem; 
   font-weight: 600; 
   cursor: pointer;
@@ -57,7 +57,7 @@ input{
   padding: 12px 32px; 
   border: 1px solid var(--primary);
   background: transparent;
-  border-radius: 24px 4px;
+  border-radius: 24px;
   font-size: .8rem; 
   font-family: 'Inter Tight', 'Segoe UI', 'Roboto', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
